@@ -1,0 +1,13 @@
+http://www.makeuseof.com/tag/read-write-google-sheets-python/
+https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
+https://mutagen.readthedocs.io/en/latest/user/gettingstarted.html
+https://github.com/burnash/gspread
+http://id3.org/id3v2.4.0-frames
+
+pip install: oauth2client
+				PyOpenSSL
+				gspread
+				mutagen
+				
+			
+python version :  3.5+

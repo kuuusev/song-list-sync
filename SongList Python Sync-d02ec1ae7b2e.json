@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "songlist-python-sync",
+  "private_key_id": "d02ec1ae7b2e9d15bd015e225d308f1bb8aec1af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZufHf+yeV2894\na48AnACxnO3TMbXCHrG1EPm6iEJYgLDGsksAtA72Pwr6a/6qzWzlcrS5Mj9GQdxJ\npy/46mcDELUZGyXxhAr2yl6hYeoag4jCmpOXvMizCNs7fCRo68/ozS1RWIQkg4IZ\nXPpaZdW+ZJ2z/q1bcp/ibEcXiOSAygkAxk4fMKOKzl7CczY94D8fHhU6VAG6vNfn\nVZP4KgcKv9MmGjbW7KrOD+jx/x5Rb1kKIufd6rP0Ef7Djrp6R7I9dDOJXoXznDyr\n7jGFccbZn57K/c2tZ2Fi5Rrfvq2Bl/oHzesUdJ7jzulyNxQhyGqtbZv480ZSBpBO\nYuTPjVbnAgMBAAECggEABmUWVCd2d5pJ/uTPcV/hUCzY4Iq9dPRT0A8t42wzyJHz\nQYU1/haNq6wt0K2dFNv+fU93pF9/rgKxe8P/bCmTqqx6FeirtOiZVw0xwVodAF3p\n2q8HJjVko7yo99Z2YmVrjqjx7tWG/Nb6Gq7HiyO0k4H2j3/o23v2RJ7AJwLexiJC\nthsxPPFsv/2BvLSmd9E5sSKur+itK2Xi7YZB7MPpYCahkLtGJBhDOi1zd+BPfCn3\nXN9Fy5pYDU/G7zDTnXlYtnuL1JdWUamYG7lsXiK4tjxcliwkgfT7Td/cdgH61iHi\n0LNcD6FYrmjZX0LbWcC7zU6RNmwgh5Y6VvVsLJ2txQKBgQDLrARy1IAPv4OuLma5\nu6dGQR+lP0YIK7XRT4R9TgwKjUXeDAWnCwEcm3PntCCUQimECKwH5hTJdBn6d6W9\n1bOsSeePMOAeYAmFbRmmZuDRpTzsbW80Jm26rq4KElQeoj0X2C/LveH34szBUUJB\n8HmGvFyetF74gooPkBeXeMznSwKBgQDBOONeJp3Tci/daruFsXJtnrS/QCWtbeq5\ny7CmiMQwKTx38eE1ugJ/6NVercs8HSYLSQJlWwoO5zaZehBhgt29IbATaZASVddm\nVzsodzn2ZzyFllBzolPUNQ7G13bHpAUhfkDyuHUmDc6xhtfqSJZyvC5eOLibO4rI\nYfWu60/BVQKBgQCiL80rFAUWhU96+QBcjw5ZZ6qnkIdYIlaa41OB5RC5pl4owDIQ\nHzc3bKMTs+DtrvIYbj9v2sxaz9WQGo8laHO3kvKOmEEgbyGl2oc+d1Y4G/kz3MFd\nKezfaBK3enj6G//CaSlGeWLkXvrmRqsYj0J3BLBMwR2Pj4QZeIkQ2eVxmQKBgEgS\n7kzqXqjGyS/wZi6CeEqHjqhgRy2f+JSBdE1KatQELbgYE4e08MXBlgWREmREAzLm\ncuxXvzK78FPjgkS9SfUIoeM71y/fsU9NbpWzk31kGOFDppLblCVt/SsSqA3kEr3h\nmFxxjdE6CUWTJOsRVH1L0If45HOTDDuevsQWplNZAoGAYw1jv3VboStvehbKCK4I\ng+YPGyj3qT8VoiILI0ml2h7ZWKiNc0i3SbQbXizOMGItsV4o5N66mGnJbEtOEWAu\nT0cBa2mcMjac0Dkt5v7CyEJ2wDJI2UPaq6oNCHVCeh8n/an8U39rBnRPC72YaK6M\nFLWTlF11DAE2BGEjXQ+ZmMc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "syncer@songlist-python-sync.iam.gserviceaccount.com",
+  "client_id": "104549061042931144206",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/syncer%40songlist-python-sync.iam.gserviceaccount.com"
+}
