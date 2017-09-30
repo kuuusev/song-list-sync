@@ -1,6 +1,7 @@
 http://www.makeuseof.com/tag/read-write-google-sheets-python/
 https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
 https://mutagen.readthedocs.io/en/latest/user/gettingstarted.html
+http://gspread.readthedocs.io/en/latest/
 https://github.com/burnash/gspread
 http://id3.org/id3v2.4.0-frames
 
@@ -11,3 +12,15 @@ pip install: oauth2client
 				
 			
 python version :  3.5+
+
+google sheets: number formating = plain text
+musicbrainz picard: scripting = 
+
+issues:	Track Number Problem:	While inserting numbers into google sheets, google sheets will automatically format the number to either a date or remove the leading zero.
+												This is an issue because we need the leading zeros as that is how it is saved in the tags and this is how we compare to see if everything is correct.
+												There are several ways to approach to fix this.
+												Using google sheets built in number formatting tool to plain text only appears to work when manually inputting and not through the use of python gspread
+												We can't get rid of leading zeros as it is used in the sorted() function since our numbers are not necessarily integers.
+												TEMP SOLUTION??: do not check to see if track number is correct while verifying process and trust that the format is correct.
+			Length of Adding New Row: Adding a new row to the spreadsheet takes an uncanny amount of time.
+													  SOLUTION??: Avoid inserting new rows as much as possible. Investigate possibility of rewriting the whole sheet instead??
