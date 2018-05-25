@@ -24,3 +24,7 @@ issues:	Track Number Problem:	While inserting numbers into google sheets, google
 												TEMP SOLUTION??: do not check to see if track number is correct while verifying process and trust that the format is correct.
 			Length of Adding New Row: Adding a new row to the spreadsheet takes an uncanny amount of time.
 													  SOLUTION??: Avoid inserting new rows as much as possible. Investigate possibility of rewriting the whole sheet instead??
+			Incomplete Tags: Incomplete tags get added all wrong need to fix it
+													  
+to add:	Config File?
+			Gui?

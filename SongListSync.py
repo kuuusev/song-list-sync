@@ -7,8 +7,8 @@ import operator
 from pprint import pprint
 from oauth2client.service_account import ServiceAccountCredentials
 
-music_folder = r'C:\Users\Kevin\Music\Final\N'
-file_formats = ('.flac','.mp3')
+music_folder = r'C:\Users\Kevin\Music\Final'
+file_formats = ('.flac','.mp3','.m4a')
 
 def main():
 	types = []
